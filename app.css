@@ -1,0 +1,14 @@
+h1{
+  font-family: "ubuntu" , sans-serif;
+  font-size: 6vw;
+  color: #B21C19;
+  text-align:center;
+}
+
+header{
+  background-color: #000000;
+  background-image: url("pizza2.jpg");
+  padding: 20vw 2em 1 2em;
+  background-position: center center;
+  background-size: cover;
+}
